@@ -13,6 +13,10 @@ I keep a list of public DevOps resources on my [Notion](https://www.notion.so/De
 
 **Have a look at the Codefresh Blog, featuring several of my tutorial:**
 <!-- BLOG-POST-LIST:START -->
+- [Managing Your Typescript Monorepo With Lerna and Codefresh](https://codefresh.io/howtos/lerna-monorepo/)
+- [Tutorial: Using Helm Hooks in Your Codefresh Pipeline](https://codefresh.io/helm-tutorial/helm-hooks/)
+- [Getting Started With Helm 3 Using React and Codefresh](https://codefresh.io/helm-tutorial/getting-started-with-helm-3/)
+- [Using the new GitHub Container Registry with Codefresh](https://codefresh.io/docker-registry/github-container-registry/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="image1.png" alt="computer" width="200"/> <img src="image2.png" alt="drawing" width="200"/>
