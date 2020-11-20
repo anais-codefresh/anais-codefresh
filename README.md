@@ -15,4 +15,4 @@ I keep a list of public DevOps resources on my [Notion](https://www.notion.so/De
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-![superfresh-one](assets/image1.png) ![superfresh-two](assets/image2.png)
+<img src="image1.png" alt="computer" width="200"/> <img src="image2.png" alt="drawing" width="200"/>
