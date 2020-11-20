@@ -11,7 +11,7 @@ I use this account for all my work-related projects. For my private projects, yo
 
 I keep a list of public DevOps resources on my [Notion](https://www.notion.so/DevOps-Diary-2e5c82e48d374442858fc8295070a4b8) :boom:
 
-**Have a look at the Codefresh Blog, featuring several of my tutorial:**
+**Have a look at the Codefresh Blog, featuring several of my tutorials:**
 <!-- BLOG-POST-LIST:START -->
 - [Managing Your Typescript Monorepo With Lerna and Codefresh](https://codefresh.io/howtos/lerna-monorepo/)
 - [Tutorial: Using Helm Hooks in Your Codefresh Pipeline](https://codefresh.io/helm-tutorial/helm-hooks/)
