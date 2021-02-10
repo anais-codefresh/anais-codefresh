@@ -13,11 +13,11 @@ I keep a list of public DevOps resources on my [Notion](https://www.notion.so/De
 
 **Have a look at the Codefresh Blog, featuring several of my tutorials:**
 <!-- BLOG-POST-LIST:START -->
-- [Comparison: Code Analysis Tools](https://codefresh.io/continuous-integration/comparison-code-analysis-tools/)
 - [Surviving the Disaster: How to Identify Bugs Immediately and Get Back on Track](https://codefresh.io/webinars/surviving-disaster-identify-bugs-immediately-get-back-track/)
 - [Code Coverage Reports using Codacy and Codefresh](https://codefresh.io/howtos/codacy-coverage-reports/)
 - [Generate Code Coverage Reports using Coveralls and Codefresh](https://codefresh.io/howtos/code-coverage-reports-using-coveralls-codefresh/)
 - [Code Coverage Analysis Using Codecov and Codefresh](https://codefresh.io/howtos/code-coverage-codecov/)
+- [Using the DigitalOcean Container Registry with Codefresh](https://codefresh.io/docker-registry/digital-ocean-container-registry/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="image1.png" alt="computer" width="200"/> <img src="image2.png" alt="drawing" width="200"/>
